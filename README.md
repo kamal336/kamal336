@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akter Kamal</h1>
-<h3 align="center">I am passionate Web Developer and Web Learner.I am trying to make different and will come back soon with something new...</h3>
+<h3 align="center">I am passionate Web Developer and Web Learner. I am trying to make different and will come back soon with something new...</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
